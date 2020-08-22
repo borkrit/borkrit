@@ -5,12 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working to improve my knowledge and skills
 - 🌱 I'm currently learning js and frameworks React/Angular/Vue
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about yoga and meditation
+- 💬 Tell me something interesting about web development
 - 📫 How to reach me: pogoriliy15@gmail.com or Telegram @vladyslav_pohorilyi
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like to travel, I watch broadcasts on computer games Dota and CS 
 
