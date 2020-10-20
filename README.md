@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vladyslav.pohorilyi@gmail.com or Telegram @vladyslav_pohorilyi
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I like to travel, I watch broadcasts on computer games Dota and CS 
-
+- ✨ I started blogging for myself where I write what I do in programming https://twitter.com/Vad97584564
